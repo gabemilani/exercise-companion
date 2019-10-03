@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805261879107",
+    "firebase_url": "https://exercisecompanion-disp-moveis.firebaseio.com",
+    "project_id": "exercisecompanion-disp-moveis",
+    "storage_bucket": "exercisecompanion-disp-moveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805261879107:android:af5793b0b0c51c38",
+        "android_client_info": {
+          "package_name": "com.gmilani.exercisecompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805261879107-ohov3jeakmi0lr9h21jfculpvkf0lurk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IiORPrfCE3y4L41GTkVgp_M42noqRRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
